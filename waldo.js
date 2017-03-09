@@ -12,3 +12,5 @@ function actionWhenFound(i) {
 }
 
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
+
+//comment
